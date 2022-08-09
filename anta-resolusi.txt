@@ -2,10 +2,12 @@ Anta Resolusi 2022
 - belajar coding 3 jam/hari
 - bekerja pada jam 15.30 - 06.00 setiap hari
 - konsisten untuk belajar java-script setiap hari
-- konsisten membuat project kecil-kecilan
+- belajar struktur data
 - mulai coding jam 19.00 - selesai
 - mulai belajar framework 
 - belajar API
-  * Materi dasar API
-  * belajar tentang pengetahuan API
-  * pengertian API
+  * penggunaan API
+  * dasar - dasar API
+ 
+
+
