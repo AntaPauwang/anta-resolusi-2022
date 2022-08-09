@@ -1,0 +1,5 @@
+Rencana Coding Tahun 2022
+- Akhir bulan Agustus sudah paham tentag dasar-dasar Java Script
+- Bulan 9 mulai belajar tentang framework
+- Mulai membuat project
+- mulai membuat portfolio
