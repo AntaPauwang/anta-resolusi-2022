@@ -1,5 +1,8 @@
 Rencana Coding Tahun 2022
 - Akhir bulan Agustus sudah paham tentag dasar-dasar Java Script
+  * Java Script DOM
 - Bulan 9 mulai belajar tentang framework
+  * Bootstrap 5 
 - Mulai membuat project
+  * Membuat Aplikasi sederhana
 - mulai membuat portfolio
