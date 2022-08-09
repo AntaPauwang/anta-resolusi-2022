@@ -4,4 +4,4 @@ Anta Resolusi 2022
 - konsisten untuk belajar java-script setiap hari
 - konsisten membuat project kecil-kecilan
 - mulai coding jam 19.00 - selesai
-- konsisten untuk paham java-script bulan Agustus
+- mulai belajar framework 
