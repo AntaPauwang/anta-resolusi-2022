@@ -5,3 +5,4 @@ Anta Resolusi 2022
 - konsisten membuat project kecil-kecilan
 - mulai coding jam 19.00 - selesai
 - mulai belajar framework 
+- belajar API
