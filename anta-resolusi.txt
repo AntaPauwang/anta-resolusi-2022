@@ -6,3 +6,5 @@ Anta Resolusi 2022
 - mulai coding jam 19.00 - selesai
 - mulai belajar framework 
 - belajar API
+  * Materi dasar API
+  * belajar tentang pengetahuan API
