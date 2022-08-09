@@ -8,3 +8,4 @@ Anta Resolusi 2022
 - belajar API
   * Materi dasar API
   * belajar tentang pengetahuan API
+  * pengertian API
