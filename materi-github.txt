@@ -22,4 +22,18 @@ Materi Tentang Git dan Github ;
     - Merge (menggabungkan 2 buah branch)
     - Merge Conflict (ketika baris yang sama diubah oleh 2 buah branch yang berbeda)
     - Forking (menduplikat repo orang lain beserta dengan historinya) untuk memodifikasi dan berkontribusi pada repo orang lain. fork != clone.
+ GIT
+  1. Git Command (local)
+    - $ git init (untuk menginisialisasi repo git)
+    - $ git add (menambahkan file)
+    - $ git status (untuk mengetahui status repo kita)
+    - $ git commit (untuk melakukan commmit)
+    - $ git config (untuk memasukkan configurasi kedalam git)
+    - $ git branch (utuk bikin branch)
+    - $ git help (untuk mengetahui cara pakai sebuah perintah)
+  2. 3 area pada repo Git 
+    - working tree
+    - staging area 
+    - history
+    
     
