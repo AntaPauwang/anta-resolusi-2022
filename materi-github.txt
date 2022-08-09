@@ -1,0 +1,25 @@
+Materi Tentang Git dan Github ;
+1. Git adalah salah satu dari VCS (Version Control System)
+  - VCS adalah sistem yang mengelola perubahan dari setiap dokumen, program komputer, website dan kumpulan informasi lain. VCS dapat menyimpan rekaman / snapshot perubahan
+    pada source code. Memungkinkan bekerja berkolaborasi dengan lebih baik. dapat mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi. memungkinkan kita 
+    untuk kembali ke keadaan sebelum perubahan(checkout). Macam-macam VCS : Git, Subversion, Mercurial, CVC.
+  - GIT adalah salah satu software yang bisa melakukan VCS. Folder didalam GIT disebut REPOSITORY / REPO.
+2. GITHUB adalah sebuah website atau layanan untuk mengelola project GIT.
+3. Istilah - istilah didalam GIT :
+    - REPO (folder)
+    - COMMIT (rekaman / snapshot dari repo kita)
+    - HASH (penanda unik pada sebuah commit)
+    - CHECKOUT (berpindah ke sebuah comit)
+    - BRANCH (cabang bebas dari sebuah comit)
+    - MERGE (menggabungkan Branch)
+    - REMOTE (sumber yang memiliki Repo)
+    - CLONE (Mengambil Repo dari Remote)
+    - PUSH (mengirimkan Commit ke Repo)
+    - PULL (Mengambil Commit dari Repo)
+ 4. Istilah - istilah dalam Github :
+    - Checkout (berpindah ke branch / commit yang lain)
+    - Pull Request (meminta pemilik repo untuk mengambil perubahan yang di lakukan)
+    - Merge (menggabungkan 2 buah branch)
+    - Merge Conflict (ketika baris yang sama diubah oleh 2 buah branch yang berbeda)
+    - Forking (menduplikat repo orang lain beserta dengan historinya) untuk memodifikasi dan berkontribusi pada repo orang lain. fork != clone.
+    
